@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCLXGdVrTNwIqnTDRm2wLPoB3eV_yRbJuQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>500362850823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.theFinalWhistle</string>
+	<key>PROJECT_ID</key>
+	<string>thefinalwhistle-5a7cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thefinalwhistle-5a7cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:500362850823:ios:520dba71ca3fac6df030a2</string>
+</dict>
+</plist>
